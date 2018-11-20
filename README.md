@@ -7,4 +7,8 @@ the
 
  ![Method](https://github.com/xiaoxifuhongse/People-Detection-and-Tracking/blob/master/Screenshot%20from%202018-11-20%2022-00-02.png?raw=true)  
 
+result video as follower:
+1, one people
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://v.youku.com/v_show/id_XMTUxNDQ2ODQ1Mg==.html?spm=a2h0j.11185381.listitem_page1.5!16~A)
+2, multi people
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://v.youku.com/v_show/id_XMTU3MjE1NzQ0OA==.html?spm=a2h0j.11185381.listitem_page1.5!15~A)
